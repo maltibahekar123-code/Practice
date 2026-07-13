@@ -6,3 +6,5 @@ console.log(login);
 
 const hey=`hey`
 console.log(hey);
+const payment=`parth`
+console.log(payment);
