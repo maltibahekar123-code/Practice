@@ -11,4 +11,7 @@ console.log(payment);
 
 const upi=`098`
 console.log(upi);
-.console.log(`Latest update`);
+console.log(`Latest update`);
+
+//fixing bugs
+console.log(`bug fixed`);
